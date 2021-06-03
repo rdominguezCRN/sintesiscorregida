@@ -1,0 +1,423 @@
+@media only screen and (max-width: 424px){
+
+  body {
+    font-family: sans-serif;
+    color: black;
+    font-size: 19px;
+    line-height: 25px;
+    margin: 0;
+  }
+
+  #botoninicio {
+    width: 200px;
+    height: 75px;
+    background-color: black;
+    color: white;
+    margin-left: 79%;
+    text-align: center;
+    font-style: "Raleway";
+    font-size: 25px;
+    line-height: 75px;
+  }
+
+  #botoninicio a:active {
+    color: white;
+    text-decoration: none;
+  }
+
+  #botoninicio a:link {
+    color: white;
+    text-decoration: none;
+  }
+
+  #botoninicio a:visited {
+    color: white;
+    text-decoration: none;
+  }
+
+  #logo {
+    width: 100px;
+    height: 100px;
+    background-image: url(logo.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+  }
+
+  #inicio {
+    width: 100%;
+    height: 650px;
+    background-image: url(fondo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-size: 100px;
+    color: white;
+    position: absolute;
+  }
+
+  #bienvenidos {
+    width: 60%;
+    height: 100px;
+    background-color: white;
+    margin: auto;
+    margin-top: 100px;
+    color: black;
+    opacity: 80%;
+  }
+
+  #bienvenidos p {
+    font-size: 30px;
+    line-height: 100px;
+    align-items: center;
+  }
+
+  #pdc {
+    width: 80%;
+    height: 100px;
+    background-color: black;
+    margin: 0 auto;
+    margin-top: 20px;
+    opacity: 80%;
+  }
+
+  #pdc p {
+    font-size: 40px;
+    line-height: 100px;
+    align-items: center;
+  }
+
+  #tsn {
+    width: 100%;
+    height: auto;
+    background-color: inherit;
+    font-family: 'Raleway';
+    font-size: 20px;
+    text-align: justify;
+    padding-top: 650px;
+  }
+
+  #sn {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    color: black;
+    line-height: 25px;
+    padding-top: 20px;
+  }
+
+  #trecetas {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    font-family: "Raleway";
+    font-style: "bold";
+    font-size: 75px;
+    text-align: center;
+    position: absolute;
+    padding-top: 50px;
+  }
+
+  .recetas1 {
+    width: 86%;
+    height: auto;
+    background-color: inherit;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+  }
+
+  #r1 {
+    width: 100%;
+    height: 300px;
+    font-family: "Raleway";
+    font-size: 30px;
+    line-height: 45px;
+    color: white;
+    margin: 10px;
+    padding-top: 100px;
+  }
+
+  .re1 {
+    width: 300px;
+    height: 250px;
+    background-color: red;
+    float: left;
+    margin: 10px;
+    background-size: cover;
+    background-position: center;
+  }
+
+  #re1 {
+    background-image: url(fotos/1.jpg);
+  }
+
+  #re2 {
+    background-image: url(fotos/2.jpg);
+  }
+
+  #re3 {
+    background-image: url(fotos/3.jpg);
+  }
+
+  #re4 {
+    background-image: url(fotos/4.jpg);
+  }
+
+  #re5 {
+    background-image: url(fotos/5.jpg);
+  }
+
+  .recetas2 {
+    width: 86%;
+    height: auto;
+    background-color: inherit;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 0 auto;
+  }
+
+  #r2 {
+    width: 100%;
+    height: 300px;
+    font-family: "Raleway";
+    font-size: 30px;
+    line-height: 45px;
+    color: white;
+    margin: 10px;
+    padding-top: 100px;
+  }
+
+  #re6 {
+    background-image: url(fotos/6.jpg);
+    align-content: center;
+  }
+
+  #re7 {
+    background-image: url(fotos/7.jpg);
+  }
+
+  #re8 {
+    background-image: url(fotos/8.jpg);
+  }
+
+  #re9 {
+    background-image: url(fotos/9.jpg);
+  }
+
+  #re10 {
+    background-image: url(fotos/10.jpg);
+  }
+
+  .c2{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin: 0 auto;
+    background-color: #FFFF;
+  }
+
+  .cajitas{
+    width: 360px;
+    height: 40px;
+    background-color: white;
+    margin: 10px;
+    font-size: 25px;
+    font-family: "Raleway";
+  }
+
+  .enviar{
+    width: 200px;
+    height: 50px;
+    margin: 10px;
+    font-size: 30px;
+    background-color: white;
+  }
+
+  #tpedidos {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    font-family: "Raleway";
+    font-size: 50px;
+    text-align: center;
+    line-height: 100px;
+    padding-top: 150px;
+  }
+
+  #cpedidos{
+    background-color: black;
+    width: 385;
+    height: 530px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-bottom: 50px;
+    padding: 10px;
+    box-shadow: 7px 13px 37px #000;
+  }
+
+  .c1{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin: 0 auto;
+    background-color: #FFFF;
+    padding-bottom: 100px;
+  }
+
+  #ttcn {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    font-family: "Raleway";
+    font-style: "bold";
+    font-size: 50px;
+    text-align: center;
+    line-height: 50px;
+  }
+
+  #ccurriculum{
+    background-color: black;
+    width: 385px;
+    height: 375px;
+    margin: auto;
+    margin-top: 50px;
+    padding: 10px;
+    box-shadow: 7px 13px 37px #000;
+  }
+
+  .cajitas2{
+    width: 360px;
+    height: 50px;
+    background-color: white;
+    margin: 10px;
+    font-size: 30px;
+    font-family: "Raleway";
+  }
+
+  input[type="file"]{
+      display: none;
+  }
+
+  .custom-file-upload{
+      margin: 10px;
+      font-size: 16px;
+      background-color: white;
+  }
+
+  #footer {
+    width: 100%;
+    height: 100px;
+    margin: 0 auto;
+    background-color: black;
+  }
+
+  #contacto{
+    width: 100%;
+    height: 80px;
+    margin: 0 auto;
+    font-size: 25px;
+    background-color: black;
+    background-position: center;
+    text-align: left;
+    line-height: 50px;
+    color: white;
+  }
+
+  .container {
+    width: 85%;
+    max-width: 1500px;
+    margin: 0 auto;
+  }
+
+  .header {
+    background: black;
+    color: white;
+    padding: 32px 0;
+
+    position: relative;
+    left: 0;
+    top: 0;
+    right: 0;
+  }
+
+    .header a {
+      color: white;
+      text-decoration: none;
+    }
+
+  .logo-nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+
+  .menu {
+    display: block;
+    cursor: pointer;
+    padding: 8px 16px;
+  }
+
+  .logo {
+    display: none;
+  }
+
+    .navigation {
+      width: 100%;
+      margin-top: 16px;
+    }
+
+    .navigation ul {
+      display: none;
+    }
+
+    .navigation ul.show {
+      display: block;
+    }
+
+      .navigation ul li {
+        display: block;
+      }
+
+        .navigation ul li a{
+          display: block;
+          padding: 8px 16px;
+          transition: all 0.4s linear;
+          border-radius: 5px;
+        }
+
+          .navigation ul li a:hover {
+            background: #797979;
+          }
+
+.main {
+    padding-top: 96px;
+}
+
+.recetas {
+  width: 80%;
+  height: auto;
+  margin: 0 auto;
+  text-align: left;
+  font-family: "Raleway";
+  font-size: 20px;
+  line-height: 20px;
+}
+
+.recetas h1 {
+  font-size: 50px;
+  line-height: 50px;
+}
+
+}
